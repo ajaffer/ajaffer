@@ -16,7 +16,7 @@ I’m a Senior Software Engineer and Tech Lead with 20+ years of experience ship
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://linkedin.com/in/ahsenjaffer)
-- 🧠 Blog: *(coming soon)*
+- 🧠 [Blog](https://ajaffer.github.io/blog.html): *(coming soon)*
 - ✉️ Email: ahsenjaffer [at] gmail.com
 
 ## 🎯 Mission & Tech Philosophy
